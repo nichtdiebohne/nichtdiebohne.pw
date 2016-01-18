@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "next try"
+date:   2016-01-18 20:14:20
+categories: jekyll blogging beginning
+---
+
+Hallo, Bilndtext gefällig?
