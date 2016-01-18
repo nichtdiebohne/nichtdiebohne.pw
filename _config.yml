@@ -8,7 +8,8 @@
 # Site settings
 title: nichtdiebohne.pw
 email: nichtdiebohne@nichtdiebohne.pw
-description: > Bekümmernis war gestern.
+description: > # this means to ignore newlines until "baseurl:"
+  Bekümmernis war gestern.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nichtdiebohne.pw" # the base hostname & protocol for your site
 twitter_username: nichtdiebohne
