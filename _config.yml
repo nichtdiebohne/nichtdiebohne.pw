@@ -11,7 +11,7 @@ email: nichtdiebohne@nichtdiebohne.pw
 description: > # this means to ignore newlines until "baseurl:"
   Bekümmernis war gestern.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nichtdiebohne.pw" # the base hostname & protocol for your site
+url: "http://www.nichtdiebohne.pw" # the base hostname & protocol for your site
 twitter_username: nichtdiebohne
 github_username:  nichtdiebohne
 

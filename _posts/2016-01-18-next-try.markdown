@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "next try"
-date:   2016-01-18 20:14:20
+date:   2016-01-18
+excerpt_separator: <!--exerptend-->
 categories: jekyll blogging beginning
 ---
 
 Hallo, Bilndtext gefällig?
+<!--exerptend-->
+Aber es kommt noch mehr nur so nebenbei.
