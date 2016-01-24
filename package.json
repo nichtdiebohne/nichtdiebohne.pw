@@ -1,0 +1,28 @@
+{
+  "name": "nichtdiebohne.pw",
+  "version": "0.0.1",
+  "description": "Jekyll blog",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nichtdiebohne/nichtdiebohne.pw.git"
+  },
+  "keywords": [
+    "blog",
+    "static",
+    "gulp",
+    "jekyll"
+  ],
+  "author": "nichtdiebohne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichtdiebohne/nichtdiebohne.pw/issues"
+  },
+  "homepage": "https://github.com/nichtdiebohne/nichtdiebohne.pw#readme"
+}
